@@ -102,7 +102,13 @@ body
     align-items: center;
     margin: 50px;
     margin-left: 300px;
-    gap: 10px;
+    gap: 5px;
+}
+
+.hotfix h3
+{
+    font-size: x-large;
+    font-weight: 400;
 }
 
 .hotfix a
@@ -251,6 +257,8 @@ body
 .para3>h3
 {
     margin: 15px 0;
+    font-size: 24px;
+    font-weight: 400;
 }
 
 .para3 a
@@ -293,10 +301,11 @@ body
     width: 250px;
     height: 40px;
     background: #00b6d1;
-    font-weight: bold;
+    font-weight: bolder;
     color: white;
     border: none;
     border-radius: 10px;
+    font-size: 16px;
 }
 
 .end
